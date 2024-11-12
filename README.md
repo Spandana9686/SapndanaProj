@@ -1,1 +1,1 @@
-# BankingProj
+# EventsProj
